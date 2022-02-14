@@ -1,4 +1,4 @@
-# Algoritm
+﻿# Algoritm
 
 CodeUp Python 기초 100제
 
@@ -7,3 +7,7 @@ CodeUp Python 기초 100제
 Programmers 문제
 
 - [프로그래머스 문제](https://github.com/do-bby/Algoritm/tree/main/Programmers)
+
+BaekJoon 문제
+
+-[백준](https://github.com/do-bby/Algoritm/tree/main/BaekJoon)
