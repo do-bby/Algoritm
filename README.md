@@ -10,4 +10,4 @@ Programmers 문제
 
 BaekJoon 문제
 
--[백준](https://github.com/do-bby/Algoritm/tree/main/BaekJoon)
+- [백준](https://github.com/do-bby/Algoritm/tree/main/BaekJoon)
